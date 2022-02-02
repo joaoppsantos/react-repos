@@ -1,0 +1,14 @@
+.search-container {
+    text-align: center;
+}
+
+.header-container {
+    height: 7vh;
+    font-size: 28px;
+}
+
+.more-repos-button {
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5vh;
+}
