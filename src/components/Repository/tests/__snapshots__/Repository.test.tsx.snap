@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Repository /> should render correctly 1`] = `
+<div>
+  <th>
+    <a
+      href="www.mock-repository.com"
+    >
+      React
+    </a>
+  </th>
+  <th>
+    15
+  </th>
+  <th>
+    10
+  </th>
+</div>
+`;
